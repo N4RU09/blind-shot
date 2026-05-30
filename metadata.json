@@ -1,0 +1,6 @@
+{
+  "name": "Blind Shot",
+  "description": "A 3D first-person PvP bow shooting game where players shoot through a magma barricade and predict opponent coordinates using trajectory feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
